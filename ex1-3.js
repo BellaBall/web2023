@@ -1,3 +1,3 @@
-function imgchange1() {document.getElementById('logo').src= './anpanmanlogo.jpg';}
+function imgchange1() {document.getElementById('logo').src= './midnight.png';}
 
-function imgchange2() {document.getElementById('logo').src= './anpanmanface.jpg';}
+function imgchange2() {document.getElementById('logo').src= './midnight1.png';}
